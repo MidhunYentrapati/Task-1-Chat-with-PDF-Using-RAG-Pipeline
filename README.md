@@ -24,7 +24,7 @@ Before running the project, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    cd Task-1-Chat-with-PDF-Using-RAG-Pipeline
     ```
 
 2. Install the required dependencies:

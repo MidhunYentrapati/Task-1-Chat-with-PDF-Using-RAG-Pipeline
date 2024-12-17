@@ -5,7 +5,7 @@ import streamlit as st
 import re
 
 # Configuration for Gemini API
-GEMINI_API_KEY = "AIzaSyDObMtkRhFpKHAzK2IaG_omYQs_DX18W0E"
+GEMINI_API_KEY = ""  #use your own API
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Step 1: Extract text from PDF, including page info
